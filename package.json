@@ -1,0 +1,25 @@
+{
+  "name": "@canvas3/nuxt",
+  "version": "1.0.0",
+  "description": "SDK for Nuxt with ThreeJS integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmettom/Canvas3Nuxt.git"
+  },
+  "keywords": [
+    "ThreeJS",
+    "SmootScroll",
+    "Shaders",
+    "3D"
+  ],
+  "author": "Tomas Kmet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmettom/Canvas3Nuxt/issues"
+  },
+  "homepage": "https://github.com/kmettom/Canvas3Nuxt#readme"
+}
