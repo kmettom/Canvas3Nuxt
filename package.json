@@ -2,7 +2,7 @@
   "name": "@canvas3/nuxt",
   "version": "1.0.0",
   "description": "SDK for Nuxt with ThreeJS integration",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
